@@ -1,4 +1,4 @@
-#  Pirkko Sutinen 
+#  Pirkko Sutinen / Sasky
 
 
 # Module 2.2 Assignment
